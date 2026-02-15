@@ -1,2 +1,3 @@
-*PDC Assignment 2*
-***Created by Radge Michael A. Emperador***
+#PDC Assignment 2#
+
+##Created by Radge Michael A. Emperador##
